@@ -1,11 +1,11 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1193" measuredH="705" mockupW="1133" mockupH="685">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1193" measuredH="1086" mockupW="1133" mockupH="1066">
   <controls>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::TitleWindow" x="355" y="142" w="838" h="563" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Window%20Name</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="357" y="165" w="836" h="525" measuredW="200" measuredH="152" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="355" y="161" w="836" h="525" measuredW="200" measuredH="152" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Kaloriedagbog%20%20%20%20%20%20%20%20%20%20%20%0AKogebog%0AMad%20database</text>
       </controlProperties>
@@ -46,6 +46,46 @@
     <control controlID="17" controlTypeID="com.balsamiq.mockups::Icon" x="550" y="395" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>DashIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TitleWindow" x="156" y="749" w="468" h="337" measuredW="450" measuredH="400" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Levenedsmiddel</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TabBar" x="156" y="775" w="468" h="289" measuredW="239" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Levenedsmiddel%2C%20Opskrift</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::SearchBox" x="177" y="815" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>p%F8lse</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextInput" x="229" y="867" w="-1" h="-1" measuredW="35" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>100</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::ComboBox" x="269" y="867" w="-1" h="-1" measuredW="52" measuredH="46" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GR.%0AStk.</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="177" y="867" w="62" h="-1" measuredW="34" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>P%F8lse</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Button" x="183" y="932" w="-1" h="-1" measuredW="41" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>OK</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="224" y="932" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
       </controlProperties>
     </control>
   </controls>
