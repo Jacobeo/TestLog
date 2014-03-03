@@ -1,0 +1,52 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1193" measuredH="705" mockupW="1133" mockupH="685">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TitleWindow" x="355" y="142" w="838" h="563" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Window%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="357" y="165" w="836" h="525" measuredW="200" measuredH="152" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kaloriedagbog%20%20%20%20%20%20%20%20%20%20%20%0AKogebog%0AMad%20database</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DateChooser" x="500" y="173" w="-1" h="-1" measuredW="155" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>03%20%20/%2003%20/%202014%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Calendar" x="60" y="20" w="-1" h="-1" measuredW="96" measuredH="96" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Arrow" x="162" y="58" w="349" h="115" measuredW="150" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::DataGrid" x="500" y="215" w="409" h="173" measuredW="459" measuredH="171" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Levenedsmiddel%2C%20m%E6ngde%2C%20%20%2C%20Kcal%2CKJ%2C%20prot%20Gr%2C%20kulh%20Gr%2C%20Fedt%20Gr%0AP%F8lse%2C%20100%2C%20Gr%2C%20265%2C1111%2C10.2%2C3.5%2C21.5%0AAgurk%2C%2050%2CGr%20%2C7.5%2C29%2C2.5%2C1%2C0%0A%20%0A%20%0AiAlt%2C%20%2C%20%2C%20272.5%2C%201140%2C12.7%2C4.5%2C21.5</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::PieChart" x="511" y="462" w="-1" h="-1" measuredW="180" measuredH="180" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="705" y="514" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Protein%3A%2018.6</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="705" y="535" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kulhydrat%3A%206.6</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="705" y="556" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fedt%3A%2071</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Icon" x="511" y="395" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PlusBigIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Icon" x="550" y="395" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DashIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
