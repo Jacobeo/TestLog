@@ -1,13 +1,8 @@
 <mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1193" measuredH="1086" mockupW="1133" mockupH="1066">
   <controls>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::TitleWindow" x="355" y="142" w="838" h="563" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TitleWindow" x="447" y="113" w="746" h="592" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Window%20Name</text>
-      </controlProperties>
-    </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="355" y="161" w="836" h="525" measuredW="200" measuredH="152" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Kaloriedagbog%20%20%20%20%20%20%20%20%20%20%20%0AKogebog%0AMad%20database</text>
       </controlProperties>
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::DateChooser" x="500" y="173" w="-1" h="-1" measuredW="155" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
@@ -86,6 +81,11 @@
     <control controlID="33" controlTypeID="com.balsamiq.mockups::Button" x="224" y="932" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TabBar" x="447" y="135" w="746" h="549" measuredW="329" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>kalorie%20dagbog%2C%20Opskrifter%2C%20Mad%20database</text>
       </controlProperties>
     </control>
   </controls>
